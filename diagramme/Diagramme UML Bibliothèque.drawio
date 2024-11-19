@@ -1,0 +1,138 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.6" pages="2">
+  <diagram name="Use Case Administrateur" id="l7_6842ziKOt0-0Xievm">
+    <mxGraphModel dx="972" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h6hY_4k64emo4dRaIo8V-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Administrateur&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="96" y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="320" as="sourcePoint" />
+            <mxPoint x="120" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="150" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="240" as="sourcePoint" />
+            <mxPoint x="120" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="350" as="sourcePoint" />
+            <mxPoint x="120" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="350" as="sourcePoint" />
+            <mxPoint x="120" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ajouter un livre&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Consulter et modifier la fiche d&#39;un livre&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Supprimer un livre de la BDD&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Consulter la liste complète des livres empruntés&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Consulter les retours en retard&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="364" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Superviser les emprunts et les retours de livres&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Consulter, ajouter, modifier ou supprimer les informations des utilisateurs&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h6hY_4k64emo4dRaIo8V-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Rechercher un livre&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="520" width="250" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mZXNF1qrM8smKfTDwUxs" name="Use Case Utilisateur">
+    <mxGraphModel dx="972" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Administrateur&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="166" y="320" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="190" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="400" as="sourcePoint" />
+            <mxPoint x="220" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="190" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="510" as="sourcePoint" />
+            <mxPoint x="190" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="510" as="sourcePoint" />
+            <mxPoint x="190" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Rechercher un livre&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="270" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Consulter la disponibilité d’un livre&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="360" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Emprunter un livre&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="450" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Consulter la liste des livres que l&#39;utilisateur a déjà empruntés&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="544.5" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Prolonger la durée d’emprunt&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="637" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Réserver un livre&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="730" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Recevoir des rappels quand la date de retour est passée&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="830" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSYVqe5ixZlMILHMSmwR-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Consulter l’historique de ses emprunts&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="930" width="250" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
