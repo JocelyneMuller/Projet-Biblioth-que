@@ -267,11 +267,47 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="U7rpI8pbTSlIonjGGFYO" name="Page-3">
+  <diagram id="U7rpI8pbTSlIonjGGFYO" name="MCD">
     <mxGraphModel dx="972" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EbsH332W0nCXXA7KUUEa-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="120" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Livre&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EbsH332W0nCXXA7KUUEa-4">
+          <mxGeometry width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Id_Livre&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Titre&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Auteur&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Annéeedition&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Catégorie&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Disponibilité&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EbsH332W0nCXXA7KUUEa-4">
+          <mxGeometry y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="120" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Utilisateur&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EbsH332W0nCXXA7KUUEa-5">
+          <mxGeometry width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Id_Utilisateur&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Nom&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Prénom&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Adresse&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Statut (Utilisateur ou administrateur)&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EbsH332W0nCXXA7KUUEa-5">
+          <mxGeometry y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="530" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Notification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EbsH332W0nCXXA7KUUEa-8">
+          <mxGeometry width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Id_Notification&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Date&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EbsH332W0nCXXA7KUUEa-8">
+          <mxGeometry y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="410" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Emprunt&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EbsH332W0nCXXA7KUUEa-11">
+          <mxGeometry width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsH332W0nCXXA7KUUEa-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Id_Emprunt&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Date_Emprunt&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Date_Retour&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Notif_Retard&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EbsH332W0nCXXA7KUUEa-11">
+          <mxGeometry y="40" width="160" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
