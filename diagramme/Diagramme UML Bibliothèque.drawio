@@ -674,6 +674,48 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-1" value="Utilisateur" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-2" value="Livre" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-3" value="Emprunt" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-4" value="Notification" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-5" value="Administrateur" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="50" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-6" value="Demander Emprunt" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-1" target="VhfG_bLbBNp-Aawc9PMV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-7" value="Creer Emprunt" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-2" target="VhfG_bLbBNp-Aawc9PMV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-8" value="Creer Notification" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-3" target="VhfG_bLbBNp-Aawc9PMV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-9" value="Confirmer Emprunt" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-4" target="VhfG_bLbBNp-Aawc9PMV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-10" value="Demander Reservation" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-1" target="VhfG_bLbBNp-Aawc9PMV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-11" value="Creer Reservation" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-2" target="VhfG_bLbBNp-Aawc9PMV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-12" value="Confirmer Reservation" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-4" target="VhfG_bLbBNp-Aawc9PMV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-13" value="Modifier Notification" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-5" target="VhfG_bLbBNp-Aawc9PMV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhfG_bLbBNp-Aawc9PMV-14" value="Supprimer Notification" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VhfG_bLbBNp-Aawc9PMV-5" target="VhfG_bLbBNp-Aawc9PMV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
